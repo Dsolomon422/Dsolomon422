@@ -6,7 +6,7 @@ Welcome to my GitHub! I’m Danny Solomon, I am going to use this github to star
 
 ## 💻 Current Project
 ### ⏱ Silver
-- Eterna is an all in one platform that brings the modern tech suite to seniors
+- Silver is an all in one platform that brings the modern tech suite to seniors
 
 ## 🎥 Past Project
 ### 🐣 Wingman
