@@ -7,6 +7,7 @@ Welcome to my GitHub! I’m Danny Solomon, I am going to use this github to star
 ## 💻 Current Project
 ### ⏱ Silver
 - Silver is an all in one platform that brings the modern tech suite to seniors
+- Website: [Silver](https://silverhelps.com/)
 
 ## 🎥 Past Project
 ### 🐣 Wingman
