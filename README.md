@@ -10,7 +10,7 @@ Welcome to my GitHub! I’m Danny Solomon, I am going to use this github to star
 
 ### 🔗 Ubena
 - With this we are tackling the lonliness epidemic. By using your journaling to create a personal profile for you. We are connecting you with people who will have a high chance of connecting with you or connect you with someone going through the same thing.
-- 
+  
 ### ⏱ Silver
 - Silver is an all in one platform that brings the modern tech suite to seniors
   
