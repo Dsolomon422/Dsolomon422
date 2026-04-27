@@ -1,6 +1,6 @@
 # Danny Solomon
 
-**Harvard 2023 | Epic Systems**
+**Harvard 2023**
 
 Welcome to my GitHub! I’m Danny Solomon, I am going to use this github to start documenting the projects I am working on starting August 2024. For past project I have worked on you can go to my past [github account](https://github.com/422dsolomon)
 
